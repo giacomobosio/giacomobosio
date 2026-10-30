@@ -18,6 +18,7 @@ I help companies and public bodies meet their accessibility obligations (Europea
 
 ### Writing
 
+- [To Accessibility & Beyond](https://www.linkedin.com/newsletters/7441790554423861248/): Hedron's fortnightly newsletter on digital accessibility, which I contribute to (in Italian)
 - [Overlay di accessibilità e sicurezza: un equilibrio sempre più fragile](https://webaccessibile.org/approfondimenti/overlay-di-accessibilita-e-sicurezza-un-equilibrio-sempre-piu-fragile/) on Webaccessibile.org (in Italian)
 - [Figmant: A Plugin for End-User Development of Wizard of Oz Experiments for Human–AI Interaction Design](https://ceur-ws.org/Vol-3978/short-s0-02.pdf), CEUR Workshop Proceedings, 2025
 

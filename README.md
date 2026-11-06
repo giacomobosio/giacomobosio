@@ -24,6 +24,6 @@ I help companies and public bodies meet their accessibility obligations (Europea
 
 ### Find me
 
-[Website](https://giacomobosio.com/en/) · [LinkedIn](https://www.linkedin.com/in/giacomobosio/) · [Bluesky](https://bsky.app/profile/giacbosio.bsky.social) · [ORCID](https://orcid.org/0009-0008-0670-2245)
+[Website](https://giacomobosio.com/en/) · [LinkedIn](https://www.linkedin.com/in/giacomobosio/) · [Bluesky](https://bsky.app/profile/giacomobosio.com) · [ORCID](https://orcid.org/0009-0008-0670-2245)
 
 > Accessibility isn't installed, it's designed.
